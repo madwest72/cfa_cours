@@ -54,15 +54,15 @@
           </a>
         
           <ul class="dropdown-menu"> <!-- panneau déroulant  -->
-            <li><a class="dropdown-item" href="informatique.php"> INFORMATIQUE </a></li> <!-- matieres -->
+            <li><a class="dropdown-item" href="matiere/informatique.php"> INFORMATIQUE </a></li> <!-- matieres -->
             <li><hr class="dropdown-divider"></li> <!-- ligne de séparation dans le panneau déroulant des matieres-->
-            <li><a class="dropdown-item" href="maths.php"> MATHS </a></li> <!-- HREF QUI DIRIGE VERS LES DIFFERENTES PAGES-->
+            <li><a class="dropdown-item" href="matiere/maths.php"> MATHS </a></li> <!-- HREF QUI DIRIGE VERS LES DIFFERENTES PAGES-->
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="anglais.php"> ANGLAIS </a></li>
+            <li><a class="dropdown-item" href="matiere/anglais.php"> ANGLAIS </a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="francais.php"> CULTURE GÉNÉRALE & EXPRESSION </a></li>
+            <li><a class="dropdown-item" href="matiere/francais.php"> CULTURE GÉNÉRALE & EXPRESSION </a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="cejm.php"> CULTURE ÉCONOMIQUE JURIDIQUE ET MANAGÉRIALE  </a></li>
+            <li><a class="dropdown-item" href="matiere/cejm.php"> CULTURE ÉCONOMIQUE JURIDIQUE ET MANAGÉRIALE  </a></li>
           </ul>
 
         <li class="nav-item">
